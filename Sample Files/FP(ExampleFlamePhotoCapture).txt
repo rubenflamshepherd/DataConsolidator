@@ -1,0 +1,393 @@
+Blank
+Time: 02:55:48
+Na=   0.0 mmol/l
+K =   0.0 mmol/l
+ Date:18-Nov-2013
+Time: 03:00:25
+M420 Clinical
+Mode 102
+Flame Photometer
+ Date:18-Nov-2013
+Time: 03:30:00
+M420 Clinical
+Mode 102
+Flame Photometer
+Blank
+Time: 03:52:02
+Na=   0.0 mmol/l
+K =   0.0 mmol/l
+Ref.  : <<E30>>
+Blank
+Time: 03:52:44
+Na=   0.0 mmol/l
+K =   0.0 mmol/l
+Calibration
+Mode: Peak      
+Time: 03:54:42
+Factor:  4.0137
+Na= 199.0 mmol/l
+Factor:  2.4173
+K = 199.0 mmol/l
+Blank
+Time: 03:56:19
+Na=   0.0 mmol/l
+K =   0.0 mmol/l
+Calibration
+Mode: Peak      
+Time: 03:58:01
+Factor:  4.2036
+Na= 199.0 mmol/l
+Factor:  2.5193
+K = 199.0 mmol/l
+Sample:      1
+Mode: Peak      
+Time: 04:07:27
+Na= 149.6 mmol/l
+K = 146.0 mmol/l
+Sample:      2
+Mode: Peak      
+Time: 04:08:26
+Na= 119.7 mmol/l
+K = 117.1 mmol/l
+Sample:      3
+Mode: Peak      
+Time: 04:09:23
+Na=  69.8 mmol/l
+K =  65.9 mmol/l
+Sample:      4
+Mode: Peak      
+Time: 04:10:22
+Na=  23.0 mmol/l
+K =  21.3 mmol/l
+Sample:      1
+Mode: Peak      
+Time: 04:12:54
+Na=  20.7 mmol/l
+K =  74.6 mmol/l
+Sample:      2
+Mode: Peak      
+Time: 04:13:55
+Na=  20.7 mmol/l
+K =  59.5 mmol/l
+Sample:      3
+Mode: Peak      
+Time: 04:14:50
+Na=  17.1 mmol/l
+K =  60.7 mmol/l
+Sample:      4
+Mode: Peak      
+Time: 04:15:45
+Na=  43.8 mmol/l
+K =  55.6 mmol/l
+Sample:      5
+Mode: Peak      
+Time: 04:16:46
+Na=  40.9 mmol/l
+K =  68.7 mmol/l
+Sample:      6
+Mode: Peak      
+Time: 04:19:09
+Na=  24.0 mmol/l
+K =  66.1 mmol/l
+Sample:      7
+Mode: Peak      
+Time: 04:20:13
+Na=  21.5 mmol/l
+K =  55.5 mmol/l
+Sample:      8
+Mode: Peak      
+Time: 04:21:13
+Na=  39.5 mmol/l
+K =  49.1 mmol/l
+Sample:      9
+Mode: Peak      
+Time: 04:22:09
+Na=  34.8 mmol/l
+K =  85.6 mmol/l
+Sample:     10
+Mode: Peak      
+Time: 04:23:15
+Na=  32.6 mmol/l
+K =  61.3 mmol/l
+Sample:  <<QQQ>>
+Mode: Peak      
+Time: 04:25:44
+Na=  21.1 mmol/l
+K =  19.8 mmol/l
+Sample:     11
+Mode: Peak      
+Time: 04:28:36
+Na=  31.8 mmol/l
+K =  74.8 mmol/l
+Sample:     12
+Mode: Peak      
+Time: 04:29:29
+Na=  39.0 mmol/l
+K =  80.5 mmol/l
+Sample:     13
+Mode: Peak      
+Time: 04:30:27
+Na=  71.7 mmol/l
+K =  68.6 mmol/l
+Sample:     14
+Mode: Peak      
+Time: 04:31:34
+Na=  38.2 mmol/l
+K =  46.5 mmol/l
+Sample:     15
+Mode: Peak      
+Time: 04:32:29
+Na=  15.0 mmol/l
+K =  77.5 mmol/l
+Sample:  <<QQQ>>
+Mode: Peak      
+Time: 04:36:17
+Na=  75.1 mmol/l
+K =  72.5 mmol/l
+Sample:     16
+Mode: Peak      
+Time: 04:38:10
+Na=  35.4 mmol/l
+K =  66.4 mmol/l
+Sample:     17
+Mode: Peak      
+Time: 04:39:14
+Na=  15.7 mmol/l
+K =  71.6 mmol/l
+Sample:     18
+Mode: Peak      
+Time: 04:40:12
+Na=  28.7 mmol/l
+K =  60.6 mmol/l
+Sample:     19
+Mode: Peak      
+Time: 04:41:04
+Na=  26.6 mmol/l
+K =  67.3 mmol/l
+Sample:     20
+Mode: Peak      
+Time: 04:42:03
+Na=  31.4 mmol/l
+K =  59.9 mmol/l
+Sample:     21
+Mode: Peak      
+Time: 04:45:19
+Na=  20.6 mmol/l
+K =  78.9 mmol/l
+Sample:     22
+Mode: Peak      
+Time: 04:46:18
+Na=  29.6 mmol/l
+K =  67.1 mmol/l
+Sample:     23
+Mode: Peak      
+Time: 04:47:13
+Na=  13.4 mmol/l
+K =  59.4 mmol/l
+Sample:  <<QQQ>>
+Mode: Peak      
+Time: 04:50:34
+Na= 125.5 mmol/l
+K = 126.8 mmol/l
+Sample:     24
+Mode: Peak      
+Time: 04:51:44
+Na=  29.3 mmol/l
+K =  44.0 mmol/l
+Sample:     25
+Mode: Peak      
+Time: 04:52:43
+Na=  45.3 mmol/l
+K = 125.8 mmol/l
+Sample:     26
+Mode: Peak      
+Time: 04:53:40
+Na=  36.2 mmol/l
+K = 119.4 mmol/l
+Sample:     27
+Mode: Peak      
+Time: 04:54:52
+Na=  20.3 mmol/l
+K = 113.5 mmol/l
+Sample:     28
+Mode: Peak      
+Time: 04:55:50
+Na=  23.6 mmol/l
+K =  91.4 mmol/l
+Sample:     29
+Mode: Peak      
+Time: 04:59:40
+Na=  17.6 mmol/l
+K =  89.8 mmol/l
+Sample:     30
+Mode: Peak      
+Time: 05:00:33
+Na=  56.2 mmol/l
+K = 101.7 mmol/l
+Sample:     31
+Mode: Peak      
+Time: 05:01:26
+Na=  27.4 mmol/l
+K = 101.6 mmol/l
+Sample:     32
+Mode: Peak      
+Time: 05:02:29
+Na=  59.6 mmol/l
+K =  89.5 mmol/l
+Sample:  <<QQQ>>
+Mode: Peak      
+Time: 05:03:58
+Na= 129.3 mmol/l
+K = 129.1 mmol/l
+Sample:     33
+Mode: Peak      
+Time: 05:08:53
+Na=  14.4 mmol/l
+K =  95.1 mmol/l
+Sample:     34
+Mode: Peak      
+Time: 05:09:47
+Na=  39.9 mmol/l
+K =  80.8 mmol/l
+Sample:     35
+Mode: Peak      
+Time: 05:10:41
+Na=  22.1 mmol/l
+K =  85.7 mmol/l
+Sample:     36
+Mode: Peak      
+Time: 05:11:43
+Na=  34.7 mmol/l
+K =  64.5 mmol/l
+Sample:     37
+Mode: Peak      
+Time: 05:12:38
+Na=  38.6 mmol/l
+K =  86.6 mmol/l
+Sample:     38
+Mode: Peak      
+Time: 05:13:35
+Na=  41.0 mmol/l
+K =  69.3 mmol/l
+Sample:     39
+Mode: Peak      
+Time: 05:14:46
+Na=  32.4 mmol/l
+K =  67.3 mmol/l
+Sample:     40
+Mode: Peak      
+Time: 05:15:49
+Na=  39.5 mmol/l
+K =  58.1 mmol/l
+Sample:     41
+Mode: Peak      
+Time: 05:16:43
+Na=   0.0 mmol/l
+K =   0.1 mmol/l
+Sample:  <<QQQ>>
+Mode: Peak      
+Time: 05:22:16
+Na= 146.4 mmol/l
+K = 147.1 mmol/l
+Sample:  <<RRR>>
+Mode: Peak      
+Time: 05:23:19
+Na=  34.8 mmol/l
+K =  89.9 mmol/l
+Sample:     42
+Mode: Peak      
+Time: 05:24:21
+Na=  47.1 mmol/l
+K =  70.2 mmol/l
+Sample:     43
+Mode: Peak      
+Time: 05:25:23
+Na=  60.1 mmol/l
+K =  89.4 mmol/l
+Sample:     44
+Mode: Peak      
+Time: 05:26:31
+Na=  43.8 mmol/l
+K =  81.7 mmol/l
+Sample:     45
+Mode: Peak      
+Time: 05:29:33
+Na=  34.8 mmol/l
+K =  95.7 mmol/l
+Sample:     46
+Mode: Peak      
+Time: 05:30:27
+Na=  28.9 mmol/l
+K =  69.0 mmol/l
+Sample:     47
+Mode: Peak      
+Time: 05:31:29
+Na=  79.9 mmol/l
+K =  88.5 mmol/l
+Sample:     48
+Mode: Peak      
+Time: 05:32:28
+Na=  43.9 mmol/l
+K =  68.2 mmol/l
+Sample:  <<QQQ>>
+Mode: Peak      
+Time: 05:45:36
+Na=  22.1 mmol/l
+K =  21.2 mmol/l
+Sample:  <<QQQ>>
+Mode: Peak      
+Time: 05:46:37
+Na=  44.0 mmol/l
+K =  42.2 mmol/l
+Sample:  <<QQQ>>
+Mode: Peak      
+Time: 05:47:44
+Na=  68.1 mmol/l
+K =  65.6 mmol/l
+Sample:  <<QQQ>>
+Mode: Peak      
+Time: 05:48:49
+Na= 111.2 mmol/l
+K = 111.0 mmol/l
+Sample:  <<QQQ>>
+Mode: Peak      
+Time: 05:49:54
+Na= 126.0 mmol/l
+K = 126.1 mmol/l
+Sample:  <<QQQ>>
+Mode: Peak      
+Time: 05:52:38
+Na= 153.0 mmol/l
+K = 153.8 mmol/l
+Sample:     49
+Mode: Peak      
+Time: 05:53:38
+Na= 158.0 mmol/l
+K =   1.1 mmol/l
+
+ Mozart
+
+ Mozart
+ Mozart
+ Mozart
+ Mozart
+ Mozart
+ Mozart
+ Mozart
+ Mozart
+ Mozart
+ Mozart
+ Mozart
+ Mozart
+ Mozart
+ Mozart
+ Mozart
+ Mozart
+ Mozart
+ Mozart
+ Mozart
+ Mozart
+ Mozart
+ Mozart
+ Mozart
+ Mozart
